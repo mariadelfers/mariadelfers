@@ -5,7 +5,7 @@
 - 💬 Ask me about my other job
 - 📫 How to reach me (keep working on that)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to travel
+- ⚡ Fun fact: I am fan of Pretty Little Liars
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariadelfers&show_icons=true&locale=en&layout=compact" alt="mariadelfers" /></p>
 
